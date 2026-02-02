@@ -16,7 +16,7 @@ Jonathan is a senior at Old Dominion Univeristy studing computer science.
 
 ## Joshua Hall
 
-{info}
+Joshua is a senior at Old Dominion Univerits, majoring in Computer Science, minoring in Math.
 
 ---
 
