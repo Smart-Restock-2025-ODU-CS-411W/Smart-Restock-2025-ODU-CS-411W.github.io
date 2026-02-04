@@ -6,17 +6,17 @@ permalink: /team/
 
 ## Andrew Morgan
 
-{info}
+Andrew Morgan is a senior at Old Dominion University, majoring in Computer Engineering and Computer Science. 
 
 ---
 
 ## Jonathan Osberg
 
-Jonathan is a senior at Old Dominion Univeristy studing computer science.
+Jonathan is a senior at Old Dominion University studing computer science.
 
 ## Joshua Hall
 
-Joshua is a senior at Old Dominion Univerits, majoring in Computer Science, minoring in Math.
+Joshua is a senior at Old Dominion University, majoring in Computer Science, minoring in Math.
 
 ---
 
@@ -33,5 +33,6 @@ Joshua is a senior at Old Dominion Univerits, majoring in Computer Science, mino
 ---
 
 ## Silver Weidman
+
 
 {info}
