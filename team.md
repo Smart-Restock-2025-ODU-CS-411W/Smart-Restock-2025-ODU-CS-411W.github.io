@@ -4,35 +4,34 @@ title: Team
 permalink: /team/
 ---
 
-## Andrew Morgan
+<div class="team-grid">
+  <div class="team-card">
+    <h3>Andrew Morgan</h3>
+    <p>Andrew Morgan is a senior at Old Dominion University, majoring in Computer Engineering and Computer Science. </p>
+  </div>
 
-Andrew Morgan is a senior at Old Dominion University, majoring in Computer Engineering and Computer Science. 
+  <div class="team-card">
+    <h3>Jonathan Osberg</h3>
+    <p>Jonathan is a senior at Old Dominion University studing computer science.</p>
+  </div>
 
----
+  <div class="team-card">
+    <h3>Joshua Hall</h3>
+    <p>Joshua is a senior at Old Dominion University, majoring in Computer Science, minoring in Math.</p>
+  </div>
 
-## Jonathan Osberg
+  <div class="team-card">
+    <h3>Max Walker</h3>
+    <p>Max is a senior computer science major & systems administrator at ODU's CS department</p>
+  </div>
 
-Jonathan is a senior at Old Dominion University studing computer science.
+  <div class="team-card">
+    <h3>Melissa Laylor</h3>
+    <p>Melissa is a senior at Old Dominion University studing computer science.</p>
+  </div>
 
-## Joshua Hall
-
-Joshua is a senior at Old Dominion University, majoring in Computer Science, minoring in Math.
-
----
-
-## Max Walker
-
-{info}
-
----
-
-## Melissa Laylor
-
-{info}
-
----
-
-## Silver Weidman
-
-
-{info}
+  <div class="team-card">
+    <h3>Silver Weidman</h3>
+    <p>Silver is a senior at ODU majoring in computer science while minoring in cybersecurity.</p>
+  </div>
+</div>

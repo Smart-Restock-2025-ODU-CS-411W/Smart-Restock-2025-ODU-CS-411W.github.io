@@ -1,0 +1,108 @@
+/* Nav Bar */
+.site-header {
+    background: white;
+    border-bottom: 3px solid #e5e7eb;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    border-bottom: none;
+    padding-bottom: 4px;
+}
+
+.nav-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 1rem 1.5rem;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    font-weight: 600;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #111;
+}
+
+.navbar a {
+    margin-left: 1.5rem;
+    text-decoration: none;
+    color: #374151;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.navbar a:hover {
+    color: #111;
+}
+
+.navbar a.active {
+    color: #111;
+    border-bottom: 2px solid #111;
+    padding-bottom: 2px;
+}
+
+/* Main Page */
+.hero {
+    text-align: center;
+    margin-top: 4rem;
+    padding: 0 1rem;
+}
+
+.hero-logo {
+    max-width: 240px;
+    height: auto;
+    margin-bottom: 0;
+}
+
+.hero-description {
+    max-width: 600px;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    line-height: 1.7;
+    color: #4b5563;
+}
+
+/* Team member page */
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.team-card {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+}
+
+.team-card h3 {
+    margin-top: 0;
+}
+
+.team-card p {
+    color: #555;
+    line-height: 1.6;
+}
+
+/* Documents Listing */
+.doc-list {
+    margin-top: 1.5rem;
+    padding-left: 1.2rem;
+}
+
+.doc-list li {
+    margin-bottom: 0.6rem;
+}
+
+.doc-list a {
+    text-decoration: none;
+    color: #2563eb;
+    font-weight: 500;
+}
+
+.doc-list a:hover {
+    text-decoration: underline;
+}
