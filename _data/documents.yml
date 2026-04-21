@@ -1,7 +1,11 @@
 - title: "Lab 1"
-  file: "/assets/docs/Smart Restock - Outline.pdf"
+  url: "/assets/docs/Smart Restock - Outline.pdf"
   type: "pdf"
 
 - title: "Feasibility Presentation"
   url: "https://docs.google.com/presentation/d/1i--Yvj66avw5Zj5-t-rlcZYDuHjmSrqs9hsmv7oavN0/edit"
+  type: "external"
+
+- title: "Software Requirements Specification"
+  url: "https://docs.google.com/document/d/1Xn-tN5pRgkRuC-b8g5r5lnB_1qTm-LlBJRUT-a9WAE8/edit?usp=sharing"
   type: "external"
